@@ -41,3 +41,6 @@ WHERE trans.is_user_transaction = 1 -- user AND tas.transaction_state = 2-- acti
 
 KILL [Session_ID]
 
+**Habilitar case sensitive**
+
+ALTER TABLE usuario ALTER COLUMN senha VARCHAR (50) COLLATE SQL_Latin1_General_CP1_CS_AS NOT NULL
