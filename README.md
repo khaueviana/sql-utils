@@ -44,3 +44,7 @@ KILL [Session_ID]
 **Habilitar case sensitive**
 
 ALTER TABLE usuario ALTER COLUMN senha VARCHAR (50) COLLATE SQL_Latin1_General_CP1_CS_AS NOT NULL
+
+**Script para criação do DB de ASP.NET Session usando SQL**
+
+https://github.com/khaueviana/sql-utils/blob/master/script-DB-ASP-State.sql
