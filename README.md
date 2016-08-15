@@ -49,7 +49,7 @@ ALTER TABLE usuario ALTER COLUMN senha VARCHAR (50) COLLATE SQL_Latin1_General_C
 
 DB ASPState
 
-https://github.com/khaueviana/sql-utils/blob/master/script-DB-ASP-State.sql
+https://github.com/khaueviana/sql-utils/blob/master/DB-ASP-State.sql
 
 Tabelas Temporárias
 
