@@ -47,4 +47,10 @@ ALTER TABLE usuario ALTER COLUMN senha VARCHAR (50) COLLATE SQL_Latin1_General_C
 
 **Script para criação do DB de ASP.NET Session usando SQL**
 
+DB ASPState
+
 https://github.com/khaueviana/sql-utils/blob/master/script-DB-ASP-State.sql
+
+Tabelas Temporárias
+
+https://github.com/khaueviana/sql-utils/blob/master/ASPState-tempdb.sql
