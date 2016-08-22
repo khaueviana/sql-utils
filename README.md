@@ -1,5 +1,4 @@
-sql-utils
----------
+# sql-utils
 
 **Date/Time format yyy/mm/dd hh:mm**
 
