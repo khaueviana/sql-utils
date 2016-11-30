@@ -1,6 +1,6 @@
 # sql-utils
 
-**Date/Time format yyy/mm/dd hh:mm**
+**Datetime format yyyy/mm/dd hh:mm**
 
 CAST(CONVERT(CHAR(17),DataCadastro,113) AS datetime)
 
