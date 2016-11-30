@@ -4,6 +4,10 @@
 
 CAST(CONVERT(CHAR(17),DataCadastro,113) AS datetime)
 
+**Datetime any formats**
+
+http://www.sqlinfo.net/sqlserver/sql_server_SELECT-Formatting_Date_Time.php
+
 **GET current PK inserted**
 
 SELECT CONVERT(INT, @@IDENTITY)
